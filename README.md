@@ -29,7 +29,7 @@
 
 <p align = "center" >
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=c,cpp,unreal,python,cs,git,github,linux,windows,java,lua,rust,visualstudio,vscode,ps,discord" />
+    <img src = "https://skillicons.dev/icons?i=c,cpp,unreal,python,cs,git,github,linux,windows,java,lua,rust,visualstudio,vscode,ps,discord,bots" />
   </a>
 </p>
 
