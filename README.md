@@ -63,6 +63,6 @@
 
 <br clear = "both">
 
-<img src = "https://raw.githubusercontent.com/FloppSilver/FloppSilver/output/snake.svg" alt = "Snake animation" />
+<img src = "https://raw.githubusercontent.com/ArchieDev242/ArchieDev242/output/snake.svg" alt = "Snake animation" />
 
 ###
