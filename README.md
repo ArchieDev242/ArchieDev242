@@ -57,10 +57,6 @@
 <img src = "https://img.shields.io/badge/Game_Jolt-%3A3-CCFF00?logo=gamejolt" height = "25" alt = "Game Jolt - :3">
 </a>
 
-<a href = "https://steamcommunity.com/id/archie242/">
-<img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height = "25" alt = " Steam ">
-</a>
-
 </div>
 
 ###
