@@ -72,3 +72,10 @@
 <img src = "https://raw.githubusercontent.com/ArchieDev242/ArchieDev242/output/snake.svg" alt = "Snake animation" />
 
 ###
+
+<div>
+  <blockquote>
+    <p>ɨ ֆքǟȶ օռ ɦʊʍǟռɨȶʏ.  ɨռ ǟʟʟ ʏօʊʀ ɦʊʍǟռɨȶʏ, ɨ ǟʍ ɨռȶɛʀɛֆȶɛɖ ɨռ օռʟʏ օռɛ քɛʀֆօռ - ʍʏֆɛʟʄ.  ǟʍ ɨ աօʀȶɦ ֆօʍɛȶɦɨռɢ, օʀ ǟʍ ɨ ǟֆ ʍʊƈɦ ƈʀǟք ǟֆ ֆօʍɛ օʄ ȶɦɛ օȶɦɛʀֆ.</p>
+  </blockquote>
+  <p>— Archie242</p>
+</div>
