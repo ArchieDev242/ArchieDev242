@@ -12,9 +12,9 @@
 
 - *⌛️ ***18 y.o.*** 🎙*
 
-- *🌍  I'm based in ***Okhtyrka, Ukraine*** 🌍*
+- *🌍  Based in ***Okhtyrka, Ukraine*** 🌍*
  
-- *🧠  I'm learning now ***C, C++, C#, Lua and Bash*** 💻*
+- *🧠  Learning now ***C, C++, C#, Lua and Bash*** 💻*
   
 - ⚡  Random bits 'bout me ⚡ :
   - ***I don't consider myself a good programmer, but I'm constantly learning to be better***
@@ -27,11 +27,14 @@
   
 <h2>⚒ Skillz & Code | What I’m messin’ with ⚒</h2>
 
-<p align = "center" >
-  <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=c,cpp,unreal,python,cs,git,github,linux,windows,java,lua,rust,visualstudio,vscode,ps,discord,bots" />
-  </a>
-</p>
+| *Direction* | *Stuff ( Tools & Languages )* |
+| --- | --- |
+| `GameDev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,unreal,windows"/></a> |
+| `Mod Dev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=python,cpp,lua,java"/></a> |
+| `Bot Development` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,python,discord,bots"/></a> |
+| `Coding stuff & Platforms` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=visualstudio,vscode,linux,windows"/></a> |
+| `Rarely Use yet` |<a href = "https://skillicons.dev"> <img src = "https://skillicons.dev/icons?i=java,lua,rust,cs"/></a> |
+| `Other Stuff I use` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=ps,blender"/></a>|
 
 <br/>  
 
