@@ -10,7 +10,7 @@
  <a href = "https://www.stalker-game.com/en"><img src = "https://github.com/ArchieDev242/ArchieDev242/blob/main/assets/stalker.gif" alt = "StalkerGIF"/></a>
 </p>
 
-<h2>💾 My bio 💾</h2>
+<h2 align = "center">💾 My bio 💾</h2>
 
 ***📄 Still learning some programming languages such as C++ or Lua or Python and developing small projects, but soon I want to work on large-scale projects and games (: 📄***  
 
@@ -29,7 +29,7 @@
     
   - ***🧱 Minecraft da best game I`ve ever played in my life ⛏***
   
-<h2>⚒ Skillz & Code | What I’m messin’ with ⚒</h2>
+<h2 align = "center">⚒ Skillz & Code | What I’m messin’ with ⚒</h2>
 
 | *Direction* | *Stuff ( Tools & Languages )* |
 | --- | --- |
@@ -44,7 +44,7 @@
 
 ###
 
-<h2>📞 Socials ⌨️</h2>
+<h2 align = "center">📞 Socials ⌨️</h2>
 
 <div align = "left">
 
