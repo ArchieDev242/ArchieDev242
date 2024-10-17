@@ -43,22 +43,13 @@
 <h2>📞 Socials ⌨️</h2>
 
 <div align = "left">
-  
-<a href = "https://discordapp.com/users/593002022068944905"> 
-<img src = "https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height = "25" alt = " Discord " /> 
-</a>
 
-<a href = "https://t.me/Archie242"> 
-<img src = "https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height = "25" alt = " Telegram " /> 
-</a>
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/593002022068944905)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Archie242)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gametopluss?igsh=eW4zdGlreGJhdTR5)
+[![GameJolt](https://img.shields.io/badge/Game_Jolt-%3A3-CCFF00?logo=gamejolt)](https://gamejolt.com/@Archie242)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxym-k-1b633232a/)
 
-<a href = "https://www.instagram.com/gametopluss?igsh=eW4zdGlreGJhdTR5">
-<img src = "https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height = "25" alt = " Instagram " />
-</a>
-
-<a href = "https://gamejolt.com/@Archie242">
-<img src = "https://img.shields.io/badge/Game_Jolt-%3A3-CCFF00?logo=gamejolt" height = "25" alt = "Game Jolt - :3">
-</a>
 
 </div>
 
