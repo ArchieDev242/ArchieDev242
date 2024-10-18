@@ -1,6 +1,6 @@
 <p align = "center" >
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1FF765&random=true&width=435&lines=!+Borshch+!;Idk+how+to+fix+it.;Mushrooms%3F+(%3A;Unity+or+Unreal+Engine%3F;GameDev+in+our+hearts%5E%5E;C%2B%2B+or+Python%3F;Our+knowledge+is+our+weapon!;%F0%9F%AA%ACHack+the+planet%F0%9F%AA%AC;Let%60s+code+together!;Games+or+Books%3F;%F0%9F%8D%8Cbanana%F0%9F%8D%8C;Minecraft;Don't+be+shy+about+mistakes;Be+Brave;Wanna+Play%3F;Games+Games+Games!!!;.Panzerschnauzer.;%F0%9F%91%81%EF%B8%8FRickroll%F0%9F%91%81%EF%B8%8F;S.T.A.L.K.E.R....2%3F;%F0%9F%A7%A0Use+your+brains%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1FF765&random=true&width=435&lines=!+Borshch+!;Idk+how+to+fix+it.;Mushrooms%3F+(%3A;Unity+or+Unreal+Engine%3F;GameDev+in+our+hearts%5E%5E;C%2B%2B+or+Python%3F;Our+knowledge+is+our+weapon!;%F0%9F%AA%ACHack+the+planet%F0%9F%AA%AC;Let%60s+code+together!;Games+or+Books%3F;%F0%9F%8D%8Cbanana%F0%9F%8D%8C;Minecraft;Don't+be+shy+about+mistakes;Be+Brave;Wanna+Play%3F;Games+Games+Games!!!;.Panzerschnauzer.;%F0%9F%91%81%EF%B8%8FRickroll%F0%9F%91%81%EF%B8%8F;S.T.A.L.K.E.R........2%3F;%F0%9F%A7%A0Use+your+brains%F0%9F%A7%A0" alt="Typing SVG" />
  </a>
 </p>
 
