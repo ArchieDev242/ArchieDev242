@@ -4,7 +4,7 @@
  </a>
 </p>
 
-## *<div align = "center">🎮 Hi there coders !  I`m Max. A start-up Game and Software Developer from Ukraine💻</div>* 
+## *<div align = "center">🎮 Hi there coders!  I`m Max. A start-up Game and Software Developer from Ukraine💻</div>* 
 
 <p align = "center">
  <a href = "https://www.stalker-game.com/en"><img src = "https://github.com/ArchieDev242/ArchieDev242/blob/main/assets/stalker.gif" alt = "StalkerGIF"/></a>
