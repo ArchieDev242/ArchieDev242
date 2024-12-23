@@ -52,7 +52,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Archie242)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gametopluss?igsh=eW4zdGlreGJhdTR5)
 [![GameJolt](https://img.shields.io/badge/Game_Jolt-%3A3-CCFF00?logo=gamejolt)](https://gamejolt.com/@Archie242)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxym-k-1b633232a/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-k-1b633232a/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/xm3YgoEiEDc?si=tLrYuppMQjImd6rN)
 
 
