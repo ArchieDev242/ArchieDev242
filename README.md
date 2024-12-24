@@ -36,7 +36,7 @@
 | `GameDev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,unreal,windows"/></a> |
 | `Mod Dev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=python,cpp,lua,java"/></a> |
 | `Bot Dev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,python,discord,bots"/></a> |
-| `Coding stuff & Platforms` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=visualstudio,vscode,sublime,linux,windows,notion"/></a> |
+| `Coding stuff & Platforms` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=visualstudio,vscode,sublime,linux,windows,notion,git"/></a> |
 | `Rarely Use yet` |<a href = "https://skillicons.dev"> <img src = "https://skillicons.dev/icons?i=java,rust,cs"/></a> |
 | `Other Stuff I use` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=ps,blender,debian"/></a>|
 
