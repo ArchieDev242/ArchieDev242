@@ -64,8 +64,8 @@
 ![ArchieDev242's GitHub stats](https://github-readme-stats.vercel.app/api?username=archiedev242&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
 <!-- ![ArchieDev242's GitHub stats](https://github-readme-stats.vercel.app/api?username=archiedev242&show_icons=true&theme=tokyonight) -->
  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiedev242&theme=tokyonight)](https://github.com/archiedev242/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiedev242&layout=pie&theme=tokyonight)](https://github.com/archiedev242/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiedev242&theme=tokyonight)](https://github.com/archiedev242/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiedev242&layout=pie&theme=tokyonight)](https://github.com/archiedev242/github-readme-stats)
 
 </div>
 
