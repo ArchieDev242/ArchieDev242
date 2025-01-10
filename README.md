@@ -20,7 +20,7 @@
  
 - *🧠  Learning now ***C, C++, C#, Lua and Bash*** 💻*
   
-- ⚡  Random bits 'bout me ⚡ :
+- ⚡  Random bits 'bout me ⚡:
   - ***I don't consider myself a good programmer, but I'm constantly learning to be better***
     
   - ***Minecraft opened the world of Game Developing for me***
