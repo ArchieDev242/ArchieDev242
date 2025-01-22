@@ -38,7 +38,7 @@
 | `Bot Dev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,python,discord,bots"/></a> |
 | `Coding stuff & Platforms` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=visualstudio,vscode,sublime,linux,windows,notion,git"/></a> |
 | `Rarely Use yet` |<a href = "https://skillicons.dev"> <img src = "https://skillicons.dev/icons?i=java,rust,cs,bash"/></a> |
-| `Other Stuff I use` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=ps,blender,debian"/></a>|
+| `Other Stuff I use` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=ps,blender,debian"/><!--<span style = "margin-left: 8px;"><img src = "assets/cinema4d.png" alt = "Cinema 4D" width = "48" height = "48"></span>--></a>|
 
 <br/>  
 
@@ -47,13 +47,15 @@
 
  > 🪬
  > 
- > This section highlights tools and technologies that I have researched but do not use regularly or are not currently using.
+ > *This section highlights tools and technologies that I've researched but don't use regularly or aren't currently using.*
 
 | *Direction* | *Languages & Tools* |
 | --- | --- |
 | `Web Development` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,angular,vue,ts,wordpress" alt="Web Dev"/></a> |
-| `UI/UX Design` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma, " alt="UI/UX Design"/></a> |
+| `UI/UX Design` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="UI/UX Design"/></a> |
 | `Mod Dev` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=haxe,haxeflixel" alt="Mod Dev"/></a> |
+| `QA Testing` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium,postman" alt="QA Testing"/></a> |
+| `Other tools & Languages` | <img src = "assets/holyc.png" alt = "Holy C" width = "48" height = "48"> |
  
 </details>
 
