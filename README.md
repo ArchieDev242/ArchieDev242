@@ -42,6 +42,21 @@
 
 <br/>  
 
+<details>
+ <summary>📼 Languages & Tools I’ve Dabbled With ⏱</summary>
+
+ > 🪬
+ > 
+ > This section highlights tools and technologies that I have researched but do not use regularly or are not currently using.
+
+| *Direction* | *Languages & Tools* |
+| --- | --- |
+| `Web Development` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,angular,vue,ts,wordpress" alt="Web Dev"/></a> |
+| `UI/UX Design` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma, " alt="UI/UX Design"/></a> |
+| `Mod Dev` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=haxe,haxeflixel" alt="Mod Dev"/></a> |
+ 
+</details>
+
 ###
 
 <h2 align = "center">📞 Socials ⌨️</h2>
