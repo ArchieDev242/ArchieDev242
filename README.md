@@ -51,7 +51,7 @@
 
 | *Direction* | *Languages & Tools* |
 | --- | --- |
-| `Web Development` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,angular,vue,ts,wordpress" alt="Web Dev"/></a> |
+| `Web Development` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,angular,vue,ts" alt="Web Dev"/></a> |
 | `UI/UX Design` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="UI/UX Design"/></a> |
 | `Mod Dev` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=haxe,haxeflixel,java" alt="Mod Dev"/></a> |
 | `QA Testing` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium,postman" alt="QA Testing"/></a> |
