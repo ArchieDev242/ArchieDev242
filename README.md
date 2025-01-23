@@ -33,12 +33,13 @@
 
 | *Direction* | *Stuff ( Tools & Languages )* |
 | --- | --- |
-| `GameDev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,unreal,windows"/></a> |
+| `GameDev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,lua,unreal"/></a> |
 | `Mod Dev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=python,cpp,lua,java"/></a> |
 | `Bot Dev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,python,discord,bots"/></a> |
 | `Coding stuff & Platforms` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=visualstudio,vscode,sublime,linux,windows,notion,git"/></a> |
+| `Software Development` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,python,java" alt="Soft Dev"/></a> |
 | `Rarely Use yet` |<a href = "https://skillicons.dev"> <img src = "https://skillicons.dev/icons?i=java,rust,cs,bash"/></a> |
-| `Other Stuff I use` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=ps,blender,debian,c"/><!--<span style = "margin-left: 8px;"><img src = "assets/cinema4d.png" alt = "Cinema 4D" width = "48" height = "48"></span>--></a>|
+| `Other Stuff I use` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=ps,debian,kali"/></a> &nbsp;<img src = "assets/skill_icons/cinema4d.png" alt = "Cinema 4D" width = "48" height = "48">|
 
 <br/>  
 
@@ -52,10 +53,11 @@
 | *Direction* | *Languages & Tools* |
 | --- | --- |
 | `Web Development` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,angular,vue,ts" alt="Web Dev"/></a> |
+| `GameDev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=unity"/></a> &nbsp;<img src = "assets/skill_icons/sdl.png" alt = "SDL2" width = "48" height = "48"> |
 | `UI/UX Design` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="UI/UX Design"/></a> |
 | `Mod Dev` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=haxe,haxeflixel,java" alt="Mod Dev"/></a> |
 | `QA Testing` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium,postman" alt="QA Testing"/></a> |
-| `Other tools & Languages` | <img src = "assets/holyc.png" alt = "Holy C" width = "48" height = "48"> |
+| `Other tools & Languages` | <img src = "assets/skill_icons/holyc.png" alt = "Holy C" width = "48" height = "48"> &nbsp;<img src = "assets/skill_icons/turboc.png" alt = "Holy C" width = "48" height = "48"> |
  
 </details>
 
