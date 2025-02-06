@@ -38,7 +38,7 @@
 | `Bot Dev` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=cpp,python,discord,bots"/></a> |
 | `Coding stuff & Platforms` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=visualstudio,vscode,sublime,linux,windows,notion,git"/></a> |
 | `Software Development` | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,python,java" alt="Soft Dev"/></a> |
-| `Rarely Use yet` |<a href = "https://skillicons.dev"> <img src = "https://skillicons.dev/icons?i=java,rust,cs,bash"/></a> |
+| `Rarely Use yet` |<a href = "https://skillicons.dev"> <img src = "https://skillicons.dev/icons?i=java,cs,bash"/></a> |
 | `Other Stuff I use` | <a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=ps,debian,kali"/></a> &nbsp;<img src = "assets/skill_icons/cinema4d.png" alt = "Cinema 4D" width = "48" height = "48">|
 
 <br/>  
