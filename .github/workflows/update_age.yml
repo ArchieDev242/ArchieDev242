@@ -1,0 +1,25 @@
+name: Update Age in Github
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Launch every month on the 1st of the month
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up C++
+        run: sudo apt-get update && sudo apt-get install -y g++
+      - name: Compile C++ script
+        run: g++ -o update_age update_age.cpp
+      - name: Run update_age script
+        run: ./update_age
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Updated age in README" || echo "No changes for the commit"
+          git push
