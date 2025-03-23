@@ -13,9 +13,9 @@ jobs:
       - name: Set up C++
         run: sudo apt-get update && sudo apt-get install -y g++
       - name: Compile C++ script
-        run: g++ -o update_age update_age.cpp
+        run: g++ -o scripts/update_age scripts/update_age.cpp
       - name: Run update_age script
-        run: ./update_age
+        run: ./scripts/update_age
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
