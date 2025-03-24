@@ -1,4 +1,4 @@
-name: Update Age in Github
+name: Update Age in GitHub
 
 on:
   schedule:
@@ -8,18 +8,24 @@ on:
 jobs:
   update-age:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up C++
-        run: sudo apt-get update && sudo apt-get install -y g++
+      - uses: actions/checkout@v4  # v4 stable
+      
       - name: Compile C++ script
         run: g++ -o scripts/update_age scripts/age_checker.cpp
-      - name: Run update_age script
+        
+      - name: Run script
         run: ./scripts/update_age
-      - name: Commit changes
+        
+      - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated age in README" || echo "No changes for the commit"
-          git push
+          git commit -m "Automatically updated age in README" || echo "No changes to commit"
+          git pull --rebase
+          git push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
