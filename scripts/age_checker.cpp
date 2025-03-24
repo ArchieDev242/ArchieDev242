@@ -21,7 +21,7 @@ int main()
     }
 
     // working with README file
-    std::string readme_path = "../README.md";
+    std::string readme_path = "README.md";
 
     // changing years info
     std::ifstream in_file(readme_path);
