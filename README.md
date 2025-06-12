@@ -85,6 +85,7 @@
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiedev242&theme=tokyonight)](https://github.com/archiedev242/github-readme-stats) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiedev242&layout=pie&hide=html,css&theme=tokyonight&hide_border=false)](https://github.com/archiedev242)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiedev242&layout=pie&theme=radical&hide=html,css&bg_color=30,FF6B6B,FFE66D&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/archiedev242) -->
 <!-- [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=archiedev242&theme=github-dark&custom_title=Code%20Vibes)](https://github.com/archiedev242) -->
