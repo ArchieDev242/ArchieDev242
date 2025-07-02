@@ -67,41 +67,52 @@
 
 <div align = "center">
 
+<style>
+.social-icon {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.social-icon:hover {
+  transform: scale(1.15);
+  filter: brightness(1.2) saturate(1.3);
+}
+</style>
+
 <table border = "0" cellpadding = "0" cellspacing = "0">
   <tr>
     <td align = "center">
       <a href = "https://discordapp.com/users/593002022068944905">
-        <img src = "https://i.imghippo.com/files/tYDl1234iY.png" alt = "Discord" width = "60" height = "60" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; right: -6px; transition: all 0.3s ease; cursor: pointer;" onmouseover = "this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3) drop-shadow(0 0 10px rgba(88, 101, 242, 0.8))'" onmouseout = "this.style.transform='scale(1)'; this.style.filter='brightness(1)'">
+        <img src = "https://i.imghippo.com/files/tYDl1234iY.png" alt = "Discord" width = "60" height = "60" class = "social-icon" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; right: -6px;">
       </a>
     </td>
     <td align = "center" style = "padding-top: 80px;">
       <a href = "https://t.me/Archie242">
-        <img src = "https://i.imghippo.com/files/IbR4181dBM.png" alt = "Telegram" width = "60" height = "60" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -33px; transition: all 0.3s ease; cursor: pointer;" onmouseover = "this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3) drop-shadow(0 0 10px rgba(44, 165, 224, 0.8))'" onmouseout = "this.style.transform='scale(1)'; this.style.filter='brightness(1)'">
+        <img src = "https://i.imghippo.com/files/IbR4181dBM.png" alt = "Telegram" width = "60" height = "60" class = "social-icon" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -33px;">
       </a>
     </td>
     <td align = "center">
-      <a href = "https://www.instagram.com/gametopluss?igsh=eW4zdGlreGJhdTR5">
-        <img src = "https://i.imghippo.com/files/LkG8025xg.png" alt = "Instagram" width = "60" height = "60" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -71px; transition: all 0.3s ease; cursor: pointer;" onmouseover = "this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3) drop-shadow(0 0 10px rgba(228, 64, 95, 0.8))'" onmouseout = "this.style.transform='scale(1)'; this.style.filter='brightness(1)'">
+      <a href = "https://www.instagram.com/archiedev242">
+        <img src = "https://i.imghippo.com/files/LkG8025xg.png" alt = "Instagram" width = "60" height = "60" class = "social-icon" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -71px;">
       </a>
     </td>
     <td align = "center" style = "padding-top: 80px;">
       <a href = "https://www.linkedin.com/in/maksym-k-1b633232a/">
-        <img src = "https://i.imghippo.com/files/bcRU3909TBg.png" alt = "LinkedIn" width = "60" height = "60" style = "clip-path: polygon(60% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -111px; transition: all 0.3s ease; cursor: pointer;" onmouseover = "this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3) drop-shadow(0 0 10px rgba(0, 119, 181, 0.8))'" onmouseout = "this.style.transform='scale(1)'; this.style.filter='brightness(1)'">
+        <img src = "https://i.imghippo.com/files/bcRU3909TBg.png" alt = "LinkedIn" width = "60" height = "60" class = "social-icon" style = "clip-path: polygon(60% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -111px;">
       </a>
     </td>
     <td align = "center">
       <a href = "https://archie242.itch.io/">
-        <img src = "https://i.imghippo.com/files/wh3663hXQ.png" alt = "Itch.io" width = "60" height = "60" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -150px; transition: all 0.3s ease; cursor: pointer;" onmouseover = "this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3) drop-shadow(0 0 10px rgba(250, 92, 92, 0.8))'" onmouseout = "this.style.transform='scale(1)'; this.style.filter='brightness(1)'">
+        <img src = "https://i.imghippo.com/files/wh3663hXQ.png" alt = "Itch.io" width = "60" height = "60" class = "social-icon" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -150px;">
       </a>
     </td>
     <td align = "center" style = "padding-top: 80px;">
       <a href = "https://gamejolt.com/@Archie242">
-        <img src = "https://i.imghippo.com/files/agFL3105I.png" alt = "GameJolt" width = "60" height = "60" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -190px; transition: all 0.3s ease; cursor: pointer;" onmouseover = "this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3) drop-shadow(0 0 10px rgba(204, 255, 0, 0.8))'" onmouseout = "this.style.transform='scale(1)'; this.style.filter='brightness(1)'">
+        <img src = "https://i.imghippo.com/files/agFL3105I.png" alt = "GameJolt" width = "60" height = "60" class = "social-icon" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -190px;">
       </a>
     </td>
     <td align = "center">
       <a href = "https://gamebanana.com/members/2133954">
-        <img src = "https://i.imghippo.com/files/yYX4783U.png" alt = "GameBanana" width = "60" height = "60" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -230px; transition: all 0.3s ease; cursor: pointer;" onmouseover = "this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3) drop-shadow(0 0 10px rgba(255, 204, 0, 0.8))'" onmouseout = "this.style.transform='scale(1)'; this.style.filter='brightness(1)'">
+        <img src = "https://i.imghippo.com/files/yYX4783U.png" alt = "GameBanana" width = "60" height = "60" class = "social-icon" style = "clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); position: relative; left: -230px;">
       </a>
     </td>
   </tr>
