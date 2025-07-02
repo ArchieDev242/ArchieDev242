@@ -67,17 +67,6 @@
 
 <div align = "center">
 
-<style>
-.social-icon {
-  transition: all 0.3s ease;
-  cursor: pointer;
-}
-.social-icon:hover {
-  transform: scale(1.15);
-  filter: brightness(1.2) saturate(1.3);
-}
-</style>
-
 <table border = "0" cellpadding = "0" cellspacing = "0">
   <tr>
     <td align = "center">
