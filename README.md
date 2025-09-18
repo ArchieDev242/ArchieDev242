@@ -14,7 +14,7 @@
 
 ***📄 Still learning some programming languages such as C++ or Lua or Python and developing small projects, but soon I want to work on large-scale projects and games (: 📄***  
 
-- *⌛️ ***18 y.o.*** 🎙*
+- *⌛️ ***19 y.o.*** 🎙*
 
 - *🌍  Based in ***Okhtyrka, Ukraine*** 🌍*
  
