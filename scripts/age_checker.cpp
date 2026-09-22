@@ -5,7 +5,7 @@
 
 int main()
 {
-    int year = 2004, month = 9, day = 18;  // date of birth (test)
+    int year = 2006, month = 9, day = 18;  // date of birth (test)
 
     std::time_t t = std::time(nullptr);
     std::tm* now = std::localtime(&t);
