@@ -2,30 +2,34 @@ name: Update Age in GitHub
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # Launch every month on the 1st of the month
+    - cron: '0 0 * * *'  # run daily at 00:00 UTC
   workflow_dispatch:
 
 jobs:
   update-age:
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
     steps:
-      - uses: actions/checkout@v4  # v4 stable
-      
+      - uses: actions/checkout@v4
+
       - name: Compile C++ script
-        run: g++ -o scripts/update_age scripts/age_checker.cpp
-        
+        run: g++ -O2 -o scripts/update_age scripts/age_checker.cpp
+
       - name: Run script
         run: ./scripts/update_age
-        
+
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Automatically updated age in README" || echo "No changes to commit"
-          git pull --rebase
-          git push origin HEAD:main
+          if ! git diff --staged --quiet; then
+            git commit -m "Automatically updated age in README"
+            git pull --rebase
+            git push origin HEAD:main
+          else
+            echo "No changes to commit"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
