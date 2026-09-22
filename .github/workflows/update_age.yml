@@ -25,7 +25,7 @@ jobs:
           git config --global user.email "actions@github.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            git commit -m "Automatically updated age in README"
+            git commit -m "🎉 HAPPY BIRTHDAY BUDDY! 🎂"
             git pull --rebase
             git push origin HEAD:main
           else
